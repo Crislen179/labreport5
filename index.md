@@ -9,6 +9,6 @@
    <img src="1.png" alt="drawing" width="600"/> <br />
 
     Screenshot of code and files: <br />
-    <img src="2.png" alt="drawing" width="600"/> <br />
+    <img src="2.png" alt="drawing" width="800"/> <br />
     
     
