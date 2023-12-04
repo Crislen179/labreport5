@@ -23,5 +23,5 @@
    <img src="4.png" alt="drawing" width="800"/> <br />
 
 
-### Part2 Reflection
+### Part2 - Reflection
 I would say the vim and jdb are some cool things I learned. In vim, we can do things just using a keyboard with no mouse, and in jdb we can stop the code in a line you want to test if your code has any bug. We may not use this two so often but is interesting to know.
