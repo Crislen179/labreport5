@@ -8,8 +8,8 @@
    Screenshot of terminal:<br />
    <img src="1.png" alt="drawing" width="600"/> <br />
 
-    Screenshot of code and files: <br />
-    <img src="2.png" alt="drawing" width="800"/> <br />
+   Screenshot of code and files: <br />
+   <img src="2.png" alt="drawing" width="800"/> <br />
     
 2) TA response
        Hello. By taking a look at your code, I am pretty sure you have no problem with your directory in line 11. But please check your format when you do the if else statement in line 11 and line 26, it will fix your problem.
